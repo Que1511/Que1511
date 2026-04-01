@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub统计](https://github-readme-stats.vercel.app/api?username=Que1511)
-![GitHub连击](https://streak-stats.demolab.com/?user=Que1511)
-![GitHub连击](https://streak-stats.demolab.com/?user=Que1511)
+
