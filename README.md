@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub奖杯](https://github-profile-trophy.vercel.app/?username=Que1511)
+
 ![GitHub连击](https://streak-stats.demolab.com/?user=Que1511)
 
 
