@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub统计](https://github-readme-stats.vercel.app/api?username=你的用户名)
+![GitHub连击](https://streak-stats.demolab.com/?user=你的用户名)
+![GitHub连击](https://streak-stats.demolab.com/?user=你的用户名)
