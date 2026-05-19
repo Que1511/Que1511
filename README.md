@@ -69,10 +69,22 @@
 
   
 
-## 𝗚𝗶𝘁𝗛𝘂𝗯 Streak ⭐
-
-![GitHub连击](https://streak-stats.demolab.com/?user=Que1511)
-
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td width="50%" align="center">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Que1511&theme=dark&show_icons=true&count_private=true">
+          <br/><br/>
+          <img alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=Que1511&theme=dark">
+        </td>
+        <td width="50%" align="center">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Que1511&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 
