@@ -1,6 +1,10 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /> 𝙌𝙪𝙚 𝙞𝙨 𝙝𝙚𝙧𝙚 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=500&color=00F7FF&bg_color=0A0F1A&center=true&vCenter=true&repeat=true&width=750&lines=Per+aspera+ad+astra.;Ex+tenebris+lucem.;Code+is+poetry+executed+by+machines.;Silence+is+the+genius's+only+noise.;What+we+create+outlives+us.;Ad+astra+per+aliena+pora.;0x3A%2C+0x2C%2C+0x7E%2C+0x3B.;Dum+spiro%2C+scripto.)
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=500&color=00F7FF&bg_color=0A0F1A&center=true&vCenter=true&repeat=true&width=750&lines=My+mom+said+to+me.;Find+someone+can+give+you+everything.;And+I+said.;Mom+,+I+already+have+everything.;I+am+a+rich+man.;I+am+a+rich+man.;I+am+a+rich+man.;Imma+carry+myself.;I+am+a+rich+man.;Imma+carry+myself.;I+am+a+rich+man.;)
+
+
 
 📫 You can reach me at: quehunyon1@163.com
 
